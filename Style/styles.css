@@ -9,6 +9,14 @@ body {
     background-color: #b156fe;
 }
 
+.mark {
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top:600px;
+}
+
 .container {
     width: 45%;
     min-width: 450px;
